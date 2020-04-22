@@ -9,4 +9,4 @@ twitter_username: PriyalMehta44 #lude the @ character, or else the build will fa
 github_username:  priyal44 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: Rejuvenate yourself with Modern Ayurveda.  # set to false to remove excerpts on the homepage
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
